@@ -8,5 +8,5 @@ Connection is very fast, so don't worry about that!
 ## Instructions
 Just place your IP address and change the port (if you want to) in both files and they are ready to be used!
 To implement them in your project, just change the send and recieve functions to whatever you need. As of this files, these functions just print the values.
-
+It is important that the Python script is executing before starting the Unity project.
 
